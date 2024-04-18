@@ -1,7 +1,3 @@
-Your README.md is off to a good start! Here's a polished version for you:
-
----
-
 # My First Laptop API
 
 This API, built with Express.js, serves data about laptops. It provides endpoints to retrieve all laptops and individual laptop data based on their IDs.
